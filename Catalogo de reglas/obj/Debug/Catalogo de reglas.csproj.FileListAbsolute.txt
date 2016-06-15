@@ -1,0 +1,11 @@
+c:\users\vini\documents\visual studio 2015\Projects\Catalogo de reglas\Catalogo de reglas\bin\Debug\Catalogo de reglas.exe.config
+c:\users\vini\documents\visual studio 2015\Projects\Catalogo de reglas\Catalogo de reglas\bin\Debug\Catalogo de reglas.exe
+c:\users\vini\documents\visual studio 2015\Projects\Catalogo de reglas\Catalogo de reglas\bin\Debug\Catalogo de reglas.pdb
+c:\users\vini\documents\visual studio 2015\Projects\Catalogo de reglas\Catalogo de reglas\obj\Debug\Catalogo de reglas.csprojResolveAssemblyReference.cache
+c:\users\vini\documents\visual studio 2015\Projects\Catalogo de reglas\Catalogo de reglas\obj\Debug\Catalogo_de_reglas.Form1.resources
+c:\users\vini\documents\visual studio 2015\Projects\Catalogo de reglas\Catalogo de reglas\obj\Debug\Catalogo_de_reglas.Form2.resources
+c:\users\vini\documents\visual studio 2015\Projects\Catalogo de reglas\Catalogo de reglas\obj\Debug\Catalogo_de_reglas.Properties.Resources.resources
+c:\users\vini\documents\visual studio 2015\Projects\Catalogo de reglas\Catalogo de reglas\obj\Debug\Catalogo de reglas.csproj.GenerateResource.Cache
+c:\users\vini\documents\visual studio 2015\Projects\Catalogo de reglas\Catalogo de reglas\obj\Debug\Catalogo de reglas.exe
+c:\users\vini\documents\visual studio 2015\Projects\Catalogo de reglas\Catalogo de reglas\obj\Debug\Catalogo de reglas.pdb
+c:\users\vini\documents\visual studio 2015\Projects\Catalogo de reglas\Catalogo de reglas\obj\Debug\Catalogo_de_reglas.Form3.resources
